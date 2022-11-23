@@ -1,0 +1,10 @@
+server:
+  port: 8084
+sports:
+  sport-name: Baloncesto
+  
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
